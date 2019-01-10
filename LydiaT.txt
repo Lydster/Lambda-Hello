@@ -7,4 +7,4 @@ Hello, my name is Aidyl. I'm wild, posh, and arrogant.
 
 My favorite hobbies are drinking, football, and football. Sure do love them boiz!
 
-Here I am making changes on a wild and crazy alternate reality branch. WOOHOO!
+I initially made a pull request to lambda school, because of the original instructions.
